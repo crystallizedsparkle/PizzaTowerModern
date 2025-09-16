@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tile_saloonalt",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_saloonalt",
+  "out_columns":32,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Fast Food Saloon",
+    "path":"folders/Tile Sets/Floor 2/Fast Food Saloon.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tile_saloonalt",
+    "path":"sprites/spr_tile_saloonalt/spr_tile_saloonalt.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"saloongroup",
+    "path":"texturegroups/saloongroup",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":1008,
+}

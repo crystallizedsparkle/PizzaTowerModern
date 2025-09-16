@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_list_pos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_list_pos",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

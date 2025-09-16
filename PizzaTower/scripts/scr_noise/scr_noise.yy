@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_noise",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_noise",
+  "parent":{
+    "name":"Boss",
+    "path":"folders/Scripts/Boss.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

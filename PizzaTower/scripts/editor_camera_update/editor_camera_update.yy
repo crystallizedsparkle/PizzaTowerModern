@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"editor_camera_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"editor_camera_update",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"editor_is_cursor_on_ui",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"editor_is_cursor_on_ui",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

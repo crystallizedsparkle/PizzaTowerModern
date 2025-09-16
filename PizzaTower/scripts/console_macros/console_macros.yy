@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"console_macros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"console_macros",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

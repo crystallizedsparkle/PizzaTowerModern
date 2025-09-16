@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cutscene_customer_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cutscene_customer_create",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

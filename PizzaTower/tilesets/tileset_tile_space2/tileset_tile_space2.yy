@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tileset_tile_space2",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tileset_tile_space2",
+  "out_columns":7,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Tile Sets/Unused.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"sprite_tile_space2",
+    "path":"sprites/sprite_tile_space2/sprite_tile_space2.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"spacegroup",
+    "path":"texturegroups/spacegroup",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":48,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"editor_macros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"editor_macros",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

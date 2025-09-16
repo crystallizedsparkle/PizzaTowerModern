@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"toggle_panel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"toggle_panel",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

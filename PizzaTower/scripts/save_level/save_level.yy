@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"save_level",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"save_level",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

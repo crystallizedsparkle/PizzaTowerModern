@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_initenemy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_initenemy",
+  "parent":{
+    "name":"Baddie",
+    "path":"folders/Scripts/Baddie.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

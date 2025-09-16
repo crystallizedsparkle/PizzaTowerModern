@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_soundtest_secret",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_soundtest_secret",
+  "parent":{
+    "name":"HUB",
+    "path":"folders/Scripts/HUB.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

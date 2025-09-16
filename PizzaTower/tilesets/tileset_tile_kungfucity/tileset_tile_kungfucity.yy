@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tileset_tile_kungfucity",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tileset_tile_kungfucity",
+  "out_columns":10,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Tile Sets/Unused.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"tile_kunfucity",
+    "path":"sprites/tile_kunfucity/tile_kunfucity.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"kungfugroup",
+    "path":"texturegroups/kungfugroup",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":96,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"load_level_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"load_level_update",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

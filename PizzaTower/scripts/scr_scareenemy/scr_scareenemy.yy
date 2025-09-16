@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_scareenemy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_scareenemy",
+  "parent":{
+    "name":"Baddie",
+    "path":"folders/Scripts/Baddie.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

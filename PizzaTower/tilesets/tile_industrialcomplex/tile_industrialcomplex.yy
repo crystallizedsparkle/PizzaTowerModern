@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tile_industrialcomplex",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_industrialcomplex",
+  "out_columns":23,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Don't Make A Sound",
+    "path":"folders/Tile Sets/Floor 5/Don't Make A Sound.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tile_industrialcomplex",
+    "path":"sprites/spr_tile_industrialcomplex/spr_tile_industrialcomplex.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"kidspartygroup",
+    "path":"texturegroups/kidspartygroup",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":510,
+}

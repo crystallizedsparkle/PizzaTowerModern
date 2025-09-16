@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_drawcontroller",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_drawcontroller",
+  "parent":{
+    "name":"Visuals",
+    "path":"folders/Scripts/Visuals.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

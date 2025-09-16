@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_boss_generics",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_boss_generics",
+  "parent":{
+    "name":"Backend",
+    "path":"folders/Scripts/Boss/Backend.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

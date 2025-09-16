@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_grannypizzasign",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_grannypizzasign",
+  "parent":{
+    "name":"HUB",
+    "path":"folders/Scripts/HUB.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

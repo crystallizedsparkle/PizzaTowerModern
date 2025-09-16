@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EditorLevel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EditorLevel",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

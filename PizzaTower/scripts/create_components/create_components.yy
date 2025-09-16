@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_components",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_components",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"instance_edit_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"instance_edit_init",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

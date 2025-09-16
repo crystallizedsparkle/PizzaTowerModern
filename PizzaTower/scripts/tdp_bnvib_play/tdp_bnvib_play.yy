@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tdp_bnvib_play",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tdp_bnvib_play",
+  "parent":{
+    "name":"BNVIB",
+    "path":"folders/Scripts/Input/BNVIB.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"quick_ini_write",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"quick_ini_write",
+  "parent":{
+    "name":"INI",
+    "path":"folders/Scripts/INI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

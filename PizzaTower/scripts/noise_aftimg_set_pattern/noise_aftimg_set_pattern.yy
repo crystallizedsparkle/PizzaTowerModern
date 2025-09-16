@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"noise_aftimg_set_pattern",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"noise_aftimg_set_pattern",
+  "parent":{
+    "name":"Afterimage",
+    "path":"folders/Scripts/Afterimage.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

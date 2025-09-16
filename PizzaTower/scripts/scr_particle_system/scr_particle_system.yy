@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_particle_system",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_particle_system",
+  "parent":{
+    "name":"Visuals",
+    "path":"folders/Scripts/Visuals.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

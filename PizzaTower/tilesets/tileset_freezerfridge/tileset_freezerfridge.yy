@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tileset_freezerfridge",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tileset_freezerfridge",
+  "out_columns":29,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"R-R-Freezerator",
+    "path":"folders/Tile Sets/Floor 4/R-R-Freezerator.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tileset_freezerfridge",
+    "path":"sprites/spr_tileset_freezerfridge/spr_tileset_freezerfridge.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"freezergroup",
+    "path":"texturegroups/freezergroup",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":860,
+}

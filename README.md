@@ -6,9 +6,7 @@ Basically rewriting half of the game.
 # Dependencies
 - [Pizza Tower release data file](https://store.steampowered.com/app/2231450/Pizza_Tower/)
 - [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/releases/tag/0.8.2.0)
-- [GameMaker LTS IDE Version 2022.0.1.31](https://gms.yoyogames.com/GameMaker-Installer-2022.0.1.31.exe)
-- [GameMaker Runtime Version 2022.0.1.30](https://drive.google.com/file/d/1NGlNwAVUgff5biokP7SW8mbp4lYafb6e/view?usp=sharing)
-- [Steamworks SDK](https://partner.steamgames.com/?goto=%2Fdownloads%2Fsteamworks_sdk_155.zip)
+  The Steamworks SDK.
 # How To Install
 
 <details>

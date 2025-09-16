@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_clip_mask",
+  "name":"shd_clip_mask",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Shaders/Unused.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

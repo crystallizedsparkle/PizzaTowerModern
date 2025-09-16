@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_rockblock_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_rockblock_functions",
+  "parent":{
+    "name":"Ratblock",
+    "path":"folders/Scripts/Ratblock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

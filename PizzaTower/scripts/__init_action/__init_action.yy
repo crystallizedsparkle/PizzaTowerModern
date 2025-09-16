@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__init_action",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__init_action",
+  "parent":{
+    "name":"action",
+    "path":"folders/Scripts/Compatibility/action.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

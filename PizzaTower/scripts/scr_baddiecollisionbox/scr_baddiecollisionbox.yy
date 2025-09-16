@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_baddiecollisionbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_baddiecollisionbox",
+  "parent":{
+    "name":"Baddie",
+    "path":"folders/Scripts/Baddie.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

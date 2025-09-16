@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RoomLayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RoomLayer",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

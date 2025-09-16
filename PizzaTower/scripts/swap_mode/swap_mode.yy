@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"swap_mode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"swap_mode",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

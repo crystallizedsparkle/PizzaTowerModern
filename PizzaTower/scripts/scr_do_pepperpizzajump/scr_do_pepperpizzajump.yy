@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_do_pepperpizzajump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_do_pepperpizzajump",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"snap_tile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_tile",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Scripts/Unused.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

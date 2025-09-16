@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_squash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_squash",
+  "parent":{
+    "name":"Baddie",
+    "path":"folders/Scripts/Baddie.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

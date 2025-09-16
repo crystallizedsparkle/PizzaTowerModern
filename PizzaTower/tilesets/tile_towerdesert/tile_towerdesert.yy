@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tile_towerdesert",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_towerdesert",
+  "out_columns":31,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Floor 2",
+    "path":"folders/Tile Sets/Floor 2.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tile_towerdesert",
+    "path":"sprites/spr_tile_towerdesert/spr_tile_towerdesert.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"entrancegroup",
+    "path":"texturegroups/entrancegroup",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.00015,
+  "tileHeight":32,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":32,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":940,
+}

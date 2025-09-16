@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_music_util",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_music_util",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Scripts/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
