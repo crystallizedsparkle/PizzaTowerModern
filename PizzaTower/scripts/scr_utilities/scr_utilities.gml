@@ -1,22 +1,9 @@
-function Approach(_val1, _val2, _amount)
+function Approach(_start, _target, _amount)
 {
-	if (_val1 < _val2)
-	{
-		_val1 += _amount;
-		if (_val1 > _val2)
-		{
-			return _val2;
-		}
-	}
+	if (_start < _target)
+		return min(_start + _amount, _target);
 	else
-	{
-		_val1 -= _amount;
-		if (_val1 < _val2)
-		{
-			return _val2;
-		}
-	}
-	return _val1;
+		return max(_start - _amount, _target);
 }
 
 function get_milliseconds()
