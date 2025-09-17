@@ -1,3 +1,5 @@
+# THIS IS UNFINISHED, USE AT YOUR OWN RISK.
+
 # Pizza Tower Modern
 Basically rewriting half of the game.
 
